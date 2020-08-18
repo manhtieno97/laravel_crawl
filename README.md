@@ -4,6 +4,7 @@ Tìm hiểu về các khái niệm cơ bản về facebookApi, cách hoạt đ�
 Thực hiện bởi :Nguyễn Mạnh Tiến
 
 Liên kết sử dụng: https://developers.facebook.com/docs/graph-api
+
 Kiến thức nắm được: - Các cách lấy token, lấy id fanpage.
                     - Lấy dữ liệu bài viết trên fanpage.
                     - Bóc tách dữ liệu đưa vào database.
