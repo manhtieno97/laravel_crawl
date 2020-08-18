@@ -1,3 +1,33 @@
+Tìm hiểu về crawl facebook.
+
+Tìm hiểu về các khái niệm cơ bản về facebookApi, cách hoạt động, cách lấy dữ liệu. Áp dụng vào laravel lấy dữ liệu bài viết và image trên page bất kì.
+Thực hiện bởi :Nguyễn Mạnh Tiến
+
+Liên kết sử dụng: https://developers.facebook.com/docs/graph-api
+Kiến thức nắm được: - Các cách lấy token, lấy id fanpage.
+                    - Lấy dữ liệu bài viết trên fanpage.
+                    - Bóc tách dữ liệu đưa vào database.
+
+Todo Sử dụng crawl để lấy các thông tin, dữ liệu cần thiết trên facebook vd như lấy các thông tin tuyển dụng trên một page tuyển dụng,.....
+
+Credit xampp,sublime Text
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
