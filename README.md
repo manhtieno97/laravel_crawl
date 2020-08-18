@@ -6,7 +6,9 @@ Thực hiện bởi :Nguyễn Mạnh Tiến
 Liên kết sử dụng: https://developers.facebook.com/docs/graph-api
 
 Kiến thức nắm được: - Các cách lấy token, lấy id fanpage.
+
                     - Lấy dữ liệu bài viết trên fanpage.
+                    
                     - Bóc tách dữ liệu đưa vào database.
 
 Todo Sử dụng crawl để lấy các thông tin, dữ liệu cần thiết trên facebook vd như lấy các thông tin tuyển dụng trên một page tuyển dụng,.....
