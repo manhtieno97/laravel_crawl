@@ -13,9 +13,9 @@ Thực hiện bởi [Nguyễn Mạnh tiến](https://github.com/manhtieno97)
 
 ## Hướng dẫn cài đặt test/sử dụng nếu có
 
- **Lấy access_token của facebook **
- - Đăng nhập tài khoản của mình vào: https://www.facebook.com/ .Vào page của bạn (Tạo một page nếu chưa có ) ấn tổ hợp ctr + u và tìm kiếm 'access_tocken'.
- **Lấy địa chỉ của một fanpage bất kì ví dụ:** https://www.facebook.com/noithatthongminhtli
+ **Lấy access_token của facebook** :Đăng nhập tài khoản của mình vào: https://www.facebook.com/ .Vào page của bạn (Tạo một page nếu chưa có ) ấn tổ hợp ctr + u và tìm kiếm 'access_tocken'.
+ 
+ **Lấy địa chỉ của một fanpage bất kì ví dụ** : https://www.facebook.com/noithatthongminhtli
  
 
 ## Kiến thức nắm được
